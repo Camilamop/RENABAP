@@ -1,0 +1,10 @@
+# credenciales — nunca subir
+*.token
+.env
+
+# datos no abiertos (declarados como límite de replicabilidad)
+data/raw/IPV*
+
+# temporales
+__pycache__/
+.ipynb_checkpoints/
