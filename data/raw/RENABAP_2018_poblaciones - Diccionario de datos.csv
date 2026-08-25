@@ -1,0 +1,169 @@
+Diccionario de datos de Asentamientos informales,
+,
+Variable:,id_renabap
+Etiqueta:,id_renabap
+,
+Variable:,localidad
+Etiqueta:,Localidad
+,
+Variable:,municipio
+Etiqueta:,Municipio
+,
+Variable:,nombre_barrio
+Etiqueta:,Nombre del barrio
+,
+Variable:,nombre_barrio_2
+Etiqueta:,Nombre de barrio alternativo
+,
+Variable:,familias
+Etiqueta:,Cantidad de familias
+,
+Variable:,origen
+Etiqueta:,Origen relevamiento
+,
+Valores,Etiquetas
+1,BUENOS AIRES
+2,FICHA BARRIOS
+3,RENABAP
+4,TECHO
+5,TECHO / BUENOS AIRES
+,
+Variable:,anio_creacion
+Etiqueta:,Año de creación
+,
+Variable:,superficie_km2
+Etiqueta:,Tamaño (km2)
+,
+Variable:,decada_creacion
+Etiqueta:,Década de creación
+,
+Valores,Etiquetas
+1,Década anterior a 1910
+2,Década 1900
+3,Década 1910
+4,Década 1920
+5,Década 1930
+6,Década 1940
+7,Década 1950
+8,Década 1960
+9,Década 1970
+10,Década 1980
+11,Década 1990
+12,Década 2000
+13,Década 2010
+14,Década 90 o anterior
+15,No clasificado
+,
+Variable:,clasificacion
+Etiqueta:,Clasificación del barrio
+,
+Valores,Etiquetas
+1,Asentamiento
+2,Villa
+,
+Variable:,situacion_dominial
+Etiqueta:,Situación dominial
+,
+Valores,Etiquetas
+1,"La mayoría de los vecinos cuentan con boleto de compra-venta, pero no tienen título."
+2,La mayoría de los vecinos cuentan con otro tipo de seguridad de tenencia provista por el Estado.
+3,"La mayoría de los vecinos no tiene título de propiedad, ni boleto de compra-venta, ni ningún otro ti"
+,
+Variable:,tipo_tierra
+Etiqueta:,Tipo de tierra
+,
+Valores,Etiquetas
+1,Mayoritariamente fiscales
+2,Mayoritariamente privadas
+3,No clasificada
+,
+Variable:,tipo_estado_tierras
+Etiqueta:,Tipo de Estado para tierras fiscales
+,
+Variable:,tipo_estado_tierras_recodificada
+Etiqueta:,Tipo de Estado para tierras fiscales
+,
+Valores,Etiquetas
+1,Nacional
+2,Provincial
+3,Municipal
+4,
+,
+Variable:,electricidad
+Etiqueta:,Electricidad
+,
+Valores,Etiquetas
+1,Conexión regular a la red pública con medidores domiciliarios pero sin boleta/factura
+2,Conexión a la red pública con medidor comunitario / social
+3,Conexión formal a la red pública de energía eléctrica con medidores domiciliarios.
+4,Conexión irregular a la red pública
+5,Acceso formal con consumo limitado
+6,Generador eléctrico a combustión
+7,Energía solar
+8,No tiene conexión eléctrica
+9,Otro / vacío
+,
+Variable:,cloacas
+Etiqueta:,Disposición de excretas
+,
+Valores,Etiquetas
+1,Conexión formal a la red cloacal pública
+2,Red cloacal conectada al pluvial
+3,Conexión irregular a la red cloacal pública
+4,Desagüe a cámara séptica y pozo ciego
+5,Desagüe sólo a pozo negro/ciego u hoyo
+6,Desagüe a intemperie o cuerpo de agua
+7,Baño seco
+8,Otro / vacío
+,
+Variable:,agua
+Etiqueta:,Acceso al agua
+,
+Valores,Etiquetas
+1,Conexión formal al agua corriente de red pública
+2,Conexión regular al agua corriente de red pública pero sin boleta/factura
+3,Conexión irregular a la red pública de agua corriente
+4,Bomba de agua de pozo domiciliaria
+5,Bomba de agua de pozo comunitaria
+6,Camión cisterna
+7,Canilla comunitaria dentro del barrio
+8,Acarreo de baldes y/o bidones desde fuera del barrio
+9,Cobertura Parcial (RPPVAP)
+10,Sin conexión formal al agua corriente de red pública (RPPVAP)
+11,"Vertiente, arroyo, río o canal"
+12,Otro / Vacío
+,
+Variable:,cocina
+Etiqueta:,Energía para cocinar
+,
+Valores,Etiquetas
+1,Conexión formal al gas natural de red pública
+2,Conexión irregular a la red de gas natural
+3,Energía eléctrica
+4,Gas en garrafa
+5,Leña o carbón
+6,Otro / Vacío
+,
+Variable:,calefaccion
+Etiqueta:,Energía para calefaccionar
+,
+Valores,Etiquetas
+1,Conexión formal al gas natural de red pública
+2,Conexión irregular a la red de gas natural
+3,Energía eléctrica
+4,Gas en garrafa
+5,Leña o carbón
+6,Inexistente
+7,Otro / Vacío
+,
+Variable:,precariedad
+Etiqueta:,Precariedad
+,
+Valores,Etiquetas
+1,Altamente precario
+2,Precario
+3,Levemente precario
+4,No clasificado
+,
+Variable:,WKT
+Etiqueta:,WKT
