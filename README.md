@@ -26,7 +26,7 @@ Este proyecto forma parte de una investigación doctoral sobre el impacto territ
 
 | Barrios AMT 2018 | subconjunto de 144 registros nacionales | 
 | Barrios AMT 2022 | subconjunto de 170 registros nacionales |
-| Barrios AMT 2023 | subconjunto de 209 registros nacionales |
+| Barrios AMT 2023 | subconjunto de 213 registros nacionales |
 | Formato de entrada | Shapefile (.shp) y GeoPackage (.gpkg) |
 | CRS | WGS84 / EPSG:4326 |
 
